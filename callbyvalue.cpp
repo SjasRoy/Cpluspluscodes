@@ -17,3 +17,6 @@ int main() {
     swap(a, b);
     return 0;
 }
+OUTPUT:
+before swap: a=40, b=50
+after swap: a=50, b=40
