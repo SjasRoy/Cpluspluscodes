@@ -14,3 +14,6 @@ int main() {
   cout << "After swap: x = " << x << ", y = " << y << endl;
   return 0;
 }
+OUTPUT:
+before swap: x=5, y=10
+after swap: x=10, y=5
